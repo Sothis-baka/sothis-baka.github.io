@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a30f60e.css",
+    "main.js": "/static/js/main.104bf1c3.js",
+    "static/css/664.72aad1f7.chunk.css": "/static/css/664.72aad1f7.chunk.css",
+    "static/js/664.7a8a9900.chunk.js": "/static/js/664.7a8a9900.chunk.js",
+    "static/media/docor-icon.png": "/static/media/docor-icon.a189c564e8b407898db5.png",
+    "static/media/decor-footprint.png": "/static/media/decor-footprint.a4bd20c9ea1a1dc0cad3.png",
+    "static/media/photo.png": "/static/media/photo.be333d3c4cb49c367c6f.png",
+    "index.html": "/index.html",
+    "main.7a30f60e.css.map": "/static/css/main.7a30f60e.css.map",
+    "main.104bf1c3.js.map": "/static/js/main.104bf1c3.js.map",
+    "664.72aad1f7.chunk.css.map": "/static/css/664.72aad1f7.chunk.css.map",
+    "664.7a8a9900.chunk.js.map": "/static/js/664.7a8a9900.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a30f60e.css",
+    "static/js/main.104bf1c3.js"
+  ]
+}
